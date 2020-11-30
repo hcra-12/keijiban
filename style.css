@@ -1,0 +1,109 @@
+.site-box {
+  width : 880px;
+  margin:auto;
+}
+html, body{
+  height : 100%;
+}
+.logojpg{
+  height : 80px;
+  background-color: red;
+}
+.list{
+  color : white;
+  background-color: black;
+  padding : 3px 0px 3px 40px;
+}
+a{
+  padding: 10px 0px 10px 15px;
+  font-size : 10px;
+}
+h3{
+  border-bottom : solid 1px black;
+  border-left:  solid 3px black;
+  padding-left: 5px;
+}
+h4{
+  font-size: 15px;
+  border-bottom : dotted 1px black;
+  margin-bottom: 10px;
+}
+
+main{
+  margin : 5px;
+}
+.left{
+  float : left;
+  width : 65%;
+}
+.FORM{
+    background-color: #F5F5F5;
+    border : solid 1px lightgray;
+    border-radius: 5px;
+    padding : 0px 0px 15px 15px;
+    padding-top: 1px;
+}
+h5{
+  font-size: 17px;
+  border-left : solid 3px brown;
+  margin-bottom: 22px;
+  padding-left: 5px;
+  margin-left: 5px;
+}
+.formbox{
+  padding-right: 90px;
+  padding-bottom : 5px;
+  border : solid 1px lightgray;
+  margin-bottom: 12px;
+}
+textarea{
+  padding : 0px 230px 60px 0px;
+  border : solid 1px lightgray;
+}
+.submit{
+  margin-top : 15px;
+  color : white;
+  background-color: olive;
+  border-radius: 3px;
+}
+.MID{
+  margin-top : 15px;
+}
+.kiji{
+  background-color: #F5F5F5;
+  border : solid 1px lightgray;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+.left p{
+  font-size: 10px;
+}
+label{
+  font-size : 13px;
+}
+.right{
+  float : left;
+  width : 28%;
+  padding-left: 45px;
+  margin-top: 3px;
+}
+.right p{
+  margin : 8px 0px;
+  margin-left: 10px;
+  font-size: 11px;
+}
+footer{
+  clear: both;
+  width : 100%;
+  margin:auto;
+  background-color: black;
+  position: absolute;
+  bottom: 0;
+}
+footer p{
+  font-size: 4px;
+  text-align: center;
+  color : white;
+  padding : 9px;
+
+}
